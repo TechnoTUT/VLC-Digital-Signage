@@ -1,3 +1,7 @@
+## 必要なもの
+VLCが動くLinuxのコンピュータ
+Raspberry Pi 3 Model Bで動作確認済みです。
+
 ## 導入
 事前にCLIで任意のLinuxとVLCをインストールしておいてください。
 
